@@ -1,6 +1,6 @@
 {
   "name": "npm-prueba-calc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Proyecto de matematicas sencillo para aprender nodejs y subirlo a npm",
   "main": "index.js",
   "scripts": {
