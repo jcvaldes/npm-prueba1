@@ -1,5 +1,5 @@
 {
-  "name": "npm-prueba1",
+  "name": "npm-prueba-calc",
   "version": "1.0.0",
   "description": "Proyecto de matematicas sencillo para aprender nodejs y subirlo a npm",
   "main": "index.js",
