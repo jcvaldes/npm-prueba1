@@ -1,0 +1,23 @@
+{
+  "name": "npm-prueba1",
+  "version": "1.0.0",
+  "description": "Proyecto de matematicas sencillo para aprender nodejs y subirlo a npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcvaldes/npm-prueba1.git"
+  },
+  "keywords": [
+    "math",
+    "matematica"
+  ],
+  "author": "Juan Carlos Valdes <idevkingos@gmail.com> (devkingos.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcvaldes/npm-prueba1/issues"
+  },
+  "homepage": "https://github.com/jcvaldes/npm-prueba1#readme"
+}
